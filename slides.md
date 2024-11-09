@@ -28,7 +28,7 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 9: Animal House
+## Session 9: Alien Animals in Israel’s House
 
 ---
 layout: statement
@@ -67,6 +67,7 @@ One afternoon at about three o’clock he had a vision in which he clearly saw a
     * Acts continues the pattern of extraordinarily pious centurions from Lk 7:1--10.
     * The Roman army was a thoroughly religious institution, with various divisions having their own particular loyalties to different deities.
         * It is remarkable, then, that a centurion would be described in these terms, i.e., not simply someone who worships God instead of idols, but someone who exemplifies Jewish piety and biblical justice.
+        * Significantly, a representative of a foreign idolatrous power is now turning to the Godof Israel.
 -->
 
 ---
@@ -93,6 +94,7 @@ Now while Peter was greatly puzzled about what to make of the vision that he had
         * That is, Peter is being asked to offer these animals as sacrifices and then consume them as part of a sacrificial meal.
         * This idea can be seen in the use of the language of "profane" to describe the animals.
             * If we were talking about normal food, it would in fact be profane by default.
+                * It is a mistake to conflate the categories of purity/sanctity here. Craig Keener's Acts commentary asserts that "Scripture and Jewish tradition rejected *profane* foods," but this is not the case. Profane food is not objectionable; it is simply not fit for holy purposes. Keener goes on to cite 1 Macc 1:62 as evidence that death is preferable to consumption of profane foods, but this is only relevant if by profane we mean *unpermitted*, which is a category error.
             * Peter's objection is that he has never eaten anything profane is nonsensical unless he is talking about sacrificial food.
                 * Normal, everyday food may be ritually pure or impure, but not all normal food is fit for sacrifice.
     * Third, the sheet contains many different kinds of animals, both permitted and unpermitted.
@@ -113,8 +115,76 @@ layout: statement
 * Through the victory of the ascended Jesus and the coming of the Holy Spirit, gentiles are not only being purified from the defilement of idolatry, but *also* being set aside as holy before God.
     * A gentile can be pure from the defilement of sin and yet still not be holy in the way that Israel is holy.
     * This is changing.
-* This entails a shift in demographic, not diet.
+        * What results is a second Pentecost in Acts 10:44--48, wherein the gentiles receive the Holy Spirit and speak in tongues just as the apostles did in Acts 2, to the astonishment of the circumcised believers.
+* Ultimately, this entails a shift in demographic, not diet.
     * Peter's adherence to *kashrut* as a natural-born Israelite does not change.
+-->
+
+---
+layout: quote
+---
+
+# Acts 15:1--11
+Then certain individuals came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.” ...
+The apostles and the elders met together to consider this matter.
+After there had been much debate, Peter stood up and said to them, “My brothers, you know that in the early days God made a choice among you, that I should be the one through whom the Gentiles would hear the message of the good news and become believers.
+And God, who knows the human heart, testified to them by giving them the Holy Spirit, just as he did to us; and in cleansing their hearts by faith he has made no distinction between them and us\.\.\.\. 
+On the contrary, we believe that we will be saved through the grace of the Lord Jesus, just as they will.”
+
+---
+layout: quote
+---
+
+# Acts 15:19--21
+\[James said,\] “Therefore I have reached the decision that we should not trouble those Gentiles who are turning to God, but we should write to them to abstain only from things polluted by idols and from fornication and from whatever has been strangled and from blood.
+For in every city, for generations past, Moses has had those who proclaim him, for he has been read aloud every sabbath in the synagogues.” 
+
+<!--
+* By apostolic decision, gentile Christians are not to undergo a process of Judaization, i.e., becoming Jews.
+* However, they are to keep certain Torah laws.
+* Notably, some of these are in fact "food laws."
+    * While the usual categories of unpermitted animals are not included in the apostolic decision, there are certain things that are prohibited.
+* The logic of James last sentence seems to be that wherever the law of Moses is proclaimed can be considered a land where the law should be observed.
+    * Because of this, it is reasonable to apply specific aspects of Israel's law to non-Israelites.
+-->
+
+---
+layout: multi-quote
+---
+
+# Leviticus 17:10--16
+If anyone of the house of Israel <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">or of the aliens who reside among them</span> eats any blood, I will set my face against that person who eats blood, and will cut that person off from the people.
+For the life of the flesh is in the blood; and I have given it to you for making atonement for your lives on the altar\.\.\.\.
+Therefore I have said to the people of Israel: No person among you shall eat blood, nor shall <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">any alien</span> who resides among you eat blood.
+
+# Leviticus 18:24--26
+Do not defile yourselves in any of these \[sexual\] ways, for by all these practices the nations I am casting out before you have defiled themselves\.\.\.\.
+But you shall keep my statutes and my ordinances and commit none of these abominations, either the citizen <span v-mark="{color: '#59b58a', type: 'highlight', click: 1}">or the alien</span> who resides among you.
+
+<!--
+* Some scholars question the relevance of these laws outside the land of Israel, since the regulations in Leviticus are squarely aimed at *Israel in the land*.
+    * To this I respond that the reason why the land of Israel is holy is because of the presence of God.
+    * If the gentiles are now bearers of God's presence through the Holy Spirit, then they are holy in the same way that Israel is holy.
+        * While the new situation of the Spirit dwelling outside the land of Israel doesn't completely map onto *Israel in the land*, there is enough overlap to make sense of why these laws might apply to those gentiles who are joining themselves to the Spirit-filled community.
+-->
+
+---
+layout: statement 
+---
+
+# As sojourning aliens among Israel, gentile believers should...
+## **abstain from food sacrificed to idols,**
+## **observe the ancient prohibition against eating blood,**
+## **and abstain from sexual immorality**
+# ... to live in harmony with Jewish believers.
+
+<!--
+* Importantly, the food-related regulations begin to change as early as Paul's churches.
+* The goal here is to facilitate healthy relationships between Jewish and gentile believers.
+    * This "Christian kashrut" is not about personal piety, but about communal harmony.
+* Paul will expand much more on the issues of idolatry and sexual sin in his epistles.
+* In my view, these regulations are not permanent statutes that modern Christians ought to observe.
+    * By and large, disputes over *kashrut* are basically absent from early Christianity after this point.
 -->
 
 ---
