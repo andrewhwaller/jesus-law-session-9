@@ -102,6 +102,8 @@ Now while Peter was greatly puzzled about what to make of the vision that he had
         * The issue here is acceptability before God.
         * In the analogy presented in the vision, animals that were previously unsuitable for sacrifice are now acceptable.
             * Therefore, people who were previously unsuitable for inclusion in the covenant community are now acceptable and holy before God.
+        * Animals are frequent stand-ins for gentile nations in Jewish literature, especially in visionary contexts.
+            * For more on this, see Staples, Jason A. “‘Rise, Kill, and Eat’: Animals as Nations in Early Jewish Visionary Literature and Acts 10.” JSNT 42.1 (2019): 3–17.
 -->
 
 ---
