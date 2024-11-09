@@ -188,6 +188,21 @@ layout: statement
 -->
 
 ---
+layout: statement
+---
+
+# Modern gentile Christians are not obligated to observe *kashrut* simply because they are not natural-born Israelites.
+
+<!--
+* In other words, why don't I follow the law of Israel? Because it's not my law.
+* Gentiles join the people of God *as gentiles*, i.e., through faith in Jesus and the gift of the Holy Spirit.
+* The apostles clearly ask gentile believers to adhere to certain Torah laws that apply *to gentiles* for the sake of communal harmony and moral purity.
+* This does not mean that biblical law can't have a Third Use function for gentile Christians.
+    * But in terms of *kashrut* specifically, gentile Christians are not obligated to observe regulations that were intended to distinguish *ethnic Israel* from the nations.
+    * *Kashrut* is just as much of a boundary marker as circumcision.
+-->
+
+---
 layout: qr-code
 ---
 # QR code for this presentation
