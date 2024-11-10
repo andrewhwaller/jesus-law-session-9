@@ -62,7 +62,7 @@ layout: fact
 layout: fact
 ---
 
-# So, should Christians observe *kashrut*?
+# So, if Jesus didn't declare all foods clean, what's the deal with *kashrut*?
 
 <!--
 * If Jesus *didn't* declare all foods clean, does that mean that Christians are obligated by *kashrut*?
