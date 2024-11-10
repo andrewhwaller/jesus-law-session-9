@@ -207,6 +207,8 @@ layout: statement
 * Paul will expand much more on the issues of idolatry and sexual sin in his epistles.
 * In my view, these regulations are not permanent statutes that modern Christians ought to observe.
     * By and large, disputes over *kashrut* are basically absent from early Christianity after this point.
+        * There are no NT texts that take up the question of whether gentile Christians should observe *kashrut*; it's arguably not really an issue in Acts 15 either, since the dispute is primarily over circumcision/Judaization generally, not *kashrut* specifically.
+        * All other food-related disputes in NT texts are in reference to food sacrificed to idols, which is categorically different from *kashrut*.
 -->
 
 ---
