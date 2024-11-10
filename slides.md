@@ -31,12 +31,32 @@ fonts:
 ## Session 9: Alien Animals in Israel’s House
 
 ---
-layout: statement
+layout: fact
 ---
 
-# Jesus denies the relevance of handwashing to the ritual purity of food, emphasizing that stricter attention to *moral* purity is needed.
+# Jesus did not declare all foods clean.
 
-# Said negatively, Jesus does not critique the Pharisees for leniency and then arbitrarily throw out an entire swath of commands.
+<!--
+* In the context of a dispute over handwashing, Jesus reiterates that according to biblical law, food cannot defile a person.
+    * Jesus doesn't throw out biblical law regarding permitted and unpermitted food.
+    * Jesus then does a typical Jesus move of redirecting the conversation toward moral purity.
+-->
+
+---
+layout: fact 
+---
+
+# Come on, were we *really* supposed to pick up on all that?
+
+<!--
+* Our discussion of Mark 7 was pretty technical; are non-scholarly readers of Mark really supposed to pick up on all that?
+    * Let me reassure you: probably not!
+        * Biblical scholars exist for a reason!
+    * When we're trying to understand the religious culture of ancient people, there's a lot that we miss.
+        * We're trying to span historical and cultural gaps that encompass thousands of years and a significant amount of social and theological change.
+    * This shouldn't discourage us as readers of the Bible.
+        * Rather, it should encourage us to maintain a healthy sense of curiosity and humility.
+-->
 
 ---
 layout: fact
