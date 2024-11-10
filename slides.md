@@ -127,7 +127,7 @@ Now while Peter was greatly puzzled about what to make of the vision that he had
 -->
 
 ---
-layout: statement
+layout: fact 
 ---
 
 # God intends to _purify_ and _sanctify_ gentiles.
